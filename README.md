@@ -1,7 +1,7 @@
 # CS623Remote
-"Database Programming Project Repository\n"
-Jonathan "Aviel" Sánchez\n
-Andrew Rowan\n
-Professor: Dr. Buttigieg\n
-CS623 Database Management Systems\n
+Database Programming Project Repository
+Jonathan "Aviel" Sánchez
+Andrew Rowan
+Professor: Dr. Buttigieg
+CS623 Database Management Systems
 April 26, 2023
